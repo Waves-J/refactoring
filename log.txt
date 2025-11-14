@@ -1,2 +1,23 @@
-6eef36c (HEAD -> main, origin/main, origin/HEAD) Task 1.1 complete, CheckStyle
-8fe534f Initial commit
+commit c45aa7253d4707279b20cde278b5418842b47316 (HEAD -> main)
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 18:29:24 2025 -0500
+
+    Extract switch statement logic
+
+commit 54e4fa505f8427601dca767fd8d9c189a7201adb
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 13:49:23 2025 -0500
+
+    Task 1.2 complete, git log
+
+commit 6eef36cc3a40c755c1349e48ee5fe0fa442fd004 (origin/main, origin/HEAD)
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 13:42:24 2025 -0500
+
+    Task 1.1 complete, CheckStyle
+
+commit 8fe534f4555531bb97972f6fa7d9333225b05289
+Author: Waves-J <wavesj04@gmail.com>
+Date:   Sat Nov 8 17:41:45 2025 -0500
+
+    Initial commit
