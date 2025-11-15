@@ -1,4 +1,46 @@
-commit 01d9cda175da97a1c437df9255899aa558080021 (HEAD -> main)
+commit 8bf72ea684dd91747079dad30eb269db48ea300f (HEAD -> main, origin/main, origin/HEAD)
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 18:58:50 2025 -0500
+
+    Task 2.4
+
+commit 802e70f4c160e300ba2aa8af991f8215926b0c08
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 18:58:34 2025 -0500
+
+    Task 2.3
+
+commit 324e682c2f8bd6f0625de689e70b72964a8721ea
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 18:58:27 2025 -0500
+
+    Task 2.2
+
+commit 38c4bbcd183eba235614e517a154094c5d822db1
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 18:58:18 2025 -0500
+
+    Task 2.1
+
+commit 44a10d9a52d83809b05744a7fff4b8c89704c8ed
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 18:58:06 2025 -0500
+
+    Task 1.2
+
+commit a14adca129a317f7095d27a32961b3d177aa32e0
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 18:57:55 2025 -0500
+
+    Task 1.1
+
+commit 84cf209240787f7b1a5a9aebc2aaad686ef357e1
+Author: waves <wavesj04@gmail.com>
+Date:   Fri Nov 14 18:51:23 2025 -0500
+
+    Finish Task 2.4
+
+commit 01d9cda175da97a1c437df9255899aa558080021
 Author: waves <wavesj04@gmail.com>
 Date:   Fri Nov 14 18:44:22 2025 -0500
 
@@ -28,7 +70,7 @@ Date:   Fri Nov 14 13:49:23 2025 -0500
 
     Task 1.2 complete, git log
 
-commit 6eef36cc3a40c755c1349e48ee5fe0fa442fd004 (origin/main, origin/HEAD)
+commit 6eef36cc3a40c755c1349e48ee5fe0fa442fd004
 Author: waves <wavesj04@gmail.com>
 Date:   Fri Nov 14 13:42:24 2025 -0500
 
